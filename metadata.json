@@ -1,0 +1,6 @@
+{
+  "name": "HELP WORLD - Global Local Services Marketplace",
+  "description": "Find trusted local service professionals anywhere. Complete suite featuring Customer App, Partner App, and Admin Panel for electricians, plumbers, mechanics, AC repair, and more.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
